@@ -6,15 +6,15 @@
 
 - [#7983](https://github.com/shadcn-ui/ui/pull/7983) [`a426fea9410ade04c26bb4edfa5da813ecaddc17`](https://github.com/shadcn-ui/ui/commit/a426fea9410ade04c26bb4edfa5da813ecaddc17) Thanks [@shadcn](https://github.com/shadcn)! - update getRegistry, getRegistryItems and resolveRegistryItems apis
 
-### Minor Changes
-
-- [#7955](https://github.com/shadcn-ui/ui/pull/7955) [`a80ab374830fa414bf3672fefc66b03ea4b8da78`](https://github.com/shadcn-ui/ui/commit/a80ab374830fa414bf3672fefc66b03ea4b8da78) Thanks [@shadcn](https://github.com/shadcn)! - update file handling for monorepo
-
 - [#7972](https://github.com/shadcn-ui/ui/pull/7972) [`6e870c399350adf17554c35cdf732421ac8a6ab2`](https://github.com/shadcn-ui/ui/commit/6e870c399350adf17554c35cdf732421ac8a6ab2) Thanks [@shadcn](https://github.com/shadcn)! - copy registry.json on build
 
 - [#7948](https://github.com/shadcn-ui/ui/pull/7948) [`2c164b0f221fac0367a0eda3ce8502b38b25ce3e`](https://github.com/shadcn-ui/ui/commit/2c164b0f221fac0367a0eda3ce8502b38b25ce3e) Thanks [@shadcn](https://github.com/shadcn)! - update registry dependencies resolution algorithm
 
 - [#7940](https://github.com/shadcn-ui/ui/pull/7940) [`578f83cbefe1b3d70b8179a58c70c5729fd1982f`](https://github.com/shadcn-ui/ui/commit/578f83cbefe1b3d70b8179a58c70c5729fd1982f) Thanks [@shadcn](https://github.com/shadcn)! - add support for namespaced registries
+
+### Minor Changes
+
+- [#7955](https://github.com/shadcn-ui/ui/pull/7955) [`a80ab374830fa414bf3672fefc66b03ea4b8da78`](https://github.com/shadcn-ui/ui/commit/a80ab374830fa414bf3672fefc66b03ea4b8da78) Thanks [@shadcn](https://github.com/shadcn)! - update file handling for monorepo
 
 ### Patch Changes
 
