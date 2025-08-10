@@ -10,6 +10,8 @@
 
 - [#7948](https://github.com/shadcn-ui/ui/pull/7948) [`2c164b0f221fac0367a0eda3ce8502b38b25ce3e`](https://github.com/shadcn-ui/ui/commit/2c164b0f221fac0367a0eda3ce8502b38b25ce3e) Thanks [@shadcn](https://github.com/shadcn)! - update registry dependencies resolution algorithm
 
+- [#7948](https://github.com/shadcn-ui/ui/pull/7948) [`2c164b0f221fac0367a0eda3ce8502b38b25ce3e`](https://github.com/shadcn-ui/ui/commit/2c164b0f221fac0367a0eda3ce8502b38b25ce3e) Thanks [@shadcn](https://github.com/shadcn)! - add --no-base-style option to init
+
 - [#7940](https://github.com/shadcn-ui/ui/pull/7940) [`578f83cbefe1b3d70b8179a58c70c5729fd1982f`](https://github.com/shadcn-ui/ui/commit/578f83cbefe1b3d70b8179a58c70c5729fd1982f) Thanks [@shadcn](https://github.com/shadcn)! - add support for namespaced registries
 
 ### Minor Changes
